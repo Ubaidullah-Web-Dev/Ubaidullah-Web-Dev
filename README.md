@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9400D3,100:4A90E2&height=110&section=header" width="100%">
 
 <div align="center">
   <img src="./github-profile.png" width="150" alt="Ubaid's Profile Picture" style="border-radius: 50%;" />
@@ -19,9 +19,15 @@
 <h2>🌐 Connect with Me</h2>
 <p>Find me on these platforms!</p>
 
-| GitHub | LinkedIn | Email |
-| --- | --- | --- |
-| [![Ubaidullah-Web-Dev](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FUbaidullah-Web-Dev&subtitle=%2FUbaidullah-Web-Dev&size=square)](https://github.com/Ubaidullah-Web-Dev) | [![Ubaid](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FUbaidullah-Web-Dev&subtitle=@Ubaid&size=square)](https://www.linkedin.com/in/Ubaidullah-Web-Dev) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGmail&subtitle=ubaidullah.web.dev%40gmail.com&size=square)](mailto:ubaidullah.web.dev@gmail.com) |
+| GitHub | Email |
+| --- | --- |
+| [![Ubaidullah-Web-Dev](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FUbaidullah-Web-Dev&subtitle=%2FUbaidullah-Web-Dev&size=square)](https://github.com/Ubaidullah-Web-Dev) | [![Email](https://bentos.jkominovic.dev/api/v1/generic-card?icon=siGmail&subtitle=ubaidullah.web.dev%40gmail.com&size=square)](mailto:ubaidullah.web.dev@gmail.com) |
+
+<!--
+| LinkedIn |
+| --- |
+| [![Ubaid](https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2FUbaidullah-Web-Dev&subtitle=@Ubaid&size=square)](https://www.linkedin.com/in/Ubaidullah-Web-Dev) |
+-->
 
 <br>
 
@@ -37,7 +43,7 @@ I'm a **Junior Full Stack Developer** with hands-on experience building and main
 
 Currently working as a **Jr. Full Stack Developer at AlphaSoft 360**, where I build scalable platforms including an OLX-style marketplace and a real estate management system.
 
-📍 Sahiwal, Pakistan &nbsp;|&nbsp; 📧 ubaidullah.web.dev@gmail.com &nbsp;|&nbsp; 📞 03287231804
+📍 Pakistan &nbsp;|&nbsp; 📧 ubaidullah.web.dev@gmail.com
 
 <br>
 
@@ -55,7 +61,7 @@ Currently working as a **Jr. Full Stack Developer at AlphaSoft 360**, where I bu
     <td>Jr. Full Stack Developer</td>
     <td><strong>AlphaSoft 360</strong></td>
     <td>Jan 2026 – Present</td>
-    <td>Sahiwal</td>
+    <td>Pakistan</td>
   </tr>
 </table>
 </div>
@@ -81,7 +87,7 @@ Currently working as a **Jr. Full Stack Developer at AlphaSoft 360**, where I bu
   </tr>
   <tr>
     <td>ICS (Intermediate in Computer Science)</td>
-    <td>The Limit College Sahiwal</td>
+    <td>The Limit College</td>
     <td>Feb 2024 – Dec 2025</td>
   </tr>
 </table>
@@ -357,29 +363,7 @@ Currently working as a **Jr. Full Stack Developer at AlphaSoft 360**, where I bu
 
 <br>
 
-<details>
-  <summary><strong>😄 GIFs, Memes & Jokes</strong></summary>
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
-      </td>
-      <td>
-        <img src="https://programming-joke-card.jayvishaalj.vercel.app/api" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img src="https://media.giphy.com/media/ZVik7pIojeZ0I/giphy.gif" width="250" alt="Coding meme" />
-      </td>
-      <td>
-        <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="250" alt="Coding meme 2" />
-      </td>
-    </tr>
-  </table>
-</div>
-</details>
+
 
 <br>
 
@@ -412,7 +396,7 @@ Currently working as a **Jr. Full Stack Developer at AlphaSoft 360**, where I bu
       <td align="center">
         <img src="https://img.icons8.com/color/96/000000/map-pin.png" alt="Location" style="width: 80px; margin: 10px;">
         <br>
-        Sahiwal, Pakistan
+        Pakistan
       </td>
     </tr>
   </tbody>
@@ -428,4 +412,4 @@ Currently working as a **Jr. Full Stack Developer at AlphaSoft 360**, where I bu
 </div>
 </h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:9400D3,100:4A90E2&height=110&section=footer" width="100%">
