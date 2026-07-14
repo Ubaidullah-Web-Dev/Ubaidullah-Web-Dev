@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:9400D3,100:4A90E2&height=110&section=header" width="100%">
 
 <div align="center">
-  <img src="./github-profile.png" width="150" alt="Ubaid's Profile Picture" style="border-radius: 50%;" />
+  <img src="./github-profile.png" width="150" alt="Ubaid's Profile Picture" style="border-radius: 100%;" />
 </div>
 
 <h1 align="center">Hello &nbsp;<img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"> , I'm Ubaid</h1>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  Jr. Full Stack Developer | Open Source Enthusiast | Problem Solver
+  Full Stack Developer | Open Source Enthusiast | Problem Solver
 </p>
 
 <div align="center">
@@ -39,9 +39,9 @@
 
 <h2 align="center">🚀 About Me</h2>
 
-I'm a **Junior Full Stack Developer** with hands-on experience building and maintaining modern web applications. I'm proficient in both front-end and back-end technologies — from crafting responsive UIs to designing RESTful APIs and managing databases. I thrive in collaborative, agile teams and am always eager to adopt new technologies and frameworks.
+I'm a **Full Stack Developer** with hands-on experience building and maintaining modern web applications. I'm proficient in both front-end and back-end technologies, from crafting responsive UIs to designing RESTful APIs and managing databases. I thrive in collaborative, agile teams and am always eager to adopt new technologies and frameworks.
 
-Currently working as a **Jr. Full Stack Developer at AlphaSoft 360**, where I build scalable platforms including an OLX-style marketplace and a real estate management system.
+Currently working as a **Full Stack Developer at AlphaSoft 360**, where I build scalable platforms including an OLX-style marketplace and a real estate management system.
 
 📍 Pakistan &nbsp;|&nbsp; 📧 ubaidullah.web.dev@gmail.com
 
@@ -121,20 +121,11 @@ Currently working as a **Jr. Full Stack Developer at AlphaSoft 360**, where I bu
   </tr>
   <tr>
     <td align="center" width="300">
-      <strong>🐧 Dusky-Os</strong>
-      <br><br>
-      Linux ISO download website with next-level animations, scroll transitions,
-      and 5 unique, beautifully designed themes.
-    </td>
-    <td align="center" width="300">
       <strong>🚀 Next Project?</strong>
       <br><br>
       Let's collaborate on something amazing!
       <br><br>
       <a href="mailto:ubaidullah.web.dev@gmail.com">📧 Reach out to me</a>
-    </td>
-    <td align="center" width="300">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" alt="Coding" />
     </td>
   </tr>
 </table>
