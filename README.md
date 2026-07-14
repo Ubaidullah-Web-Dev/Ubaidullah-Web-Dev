@@ -58,7 +58,7 @@ Currently working as a **Full Stack Developer at AlphaSoft 360**, where I build 
     <th>Location</th>
   </tr>
   <tr>
-    <td>Jr. Full Stack Developer</td>
+    <td>Full Stack Developer</td>
     <td><strong>AlphaSoft 360</strong></td>
     <td>Jan 2026 – Present</td>
     <td>Pakistan</td>
